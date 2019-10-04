@@ -1,0 +1,32 @@
+1.What is Git?
+A.Git is the most commonly used version control system today and is quickly becoming the standard for version control. 
+  Git is a distributed version control system, meaning your local copy of code is a complete version control repository. 
+  These fully-functional local repositories make it is easy to work offline or remotely. 
+  You commit your work locally, and then sync your copy of the repository with the copy on the server. 
+  This paradigm differs from centralized version control where clients must synchronize code with a server before creating new versions of code.
+
+2.what is devops?
+A.DevOps (development and operations) is an enterprise software development phrase used to mean a type of agile relationship between development and IT operations. 
+  The goal of DevOps is to change and improve the relationship by advocating better communication and collaboration between these two business units.
+
+3.what is jenkins?
+A.Jenkins is an open source automation tool written in Java with plugins built for Continuous Integration purpose.
+  Jenkins is used to build and test your software projects continuously making it easier for developers to integrate changes to the project,
+  and making it easier for users to obtain a fresh build.It also allows you to continuously deliver your software by integrating with a 
+  large number of testing and deployment technologies.
+
+4.what is docker?
+A.docker is a tool that can package an application and its dependence in a virtual contianer that can run on linux server etc..
+  because docker containers are lightweiht a single or viratual machine can run several container simultaneously.
+
+5.what is docker compose?
+A.when ever we want to create multi container architecture we can use docker compose the advantage is reusabuity.docker files are created using yamil
+
+6.what is docker volumes?
+A.containers  are ephemeral the dataproccessed by container should be able purshment i.e eventhough the container is delete we should be able to 
+  access the data this can be done on docker volumes
+            *simple docker volume 
+            *docker volume container
+7.what is ansible?
+A.ansible is an opensource configuration management tool which is created using python.the main mechine where ansible is installed is called as controller.
+  the remote mechine that we want to configure are called as managed notes(or)managed hosts.
